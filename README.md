@@ -14,8 +14,7 @@ Simple HSV color picker in HTML.
 
     - Webpack added and configured.
     - Jest configured :
-
-        - Webpack config is specified as a COmmonJS module (`.cjs` extension).
+        - Webpack config is specified as a CommonJS module (`.cjs` extension).
         - Module imports have their extension specified when importing.
 
 
@@ -25,4 +24,4 @@ The following graph modelizes the component's state management system.
 <br>
 All state variables are shown with their subscriptions and all actions towards a change in the state.
 
-<img src="interactions_graph.png" alt="drawing" width="1000"/>
+<img src="interactions-graph.webp" alt="drawing" width="1000"/>
