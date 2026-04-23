@@ -13,10 +13,20 @@ Simple HSV color picker in HTML.
 - **V 2.0.0**
 
     - Webpack added and configured.
+
     - Jest configured :
+    
         - Webpack config is specified as a CommonJS module (`.cjs` extension).
         - Module imports have their extension specified when importing.
 
+#
+### Setup
+
+- Run `npm i`.
+- Run `npm build`.
+- Execute `dist/index.html` in the browser.
+
+<br>
 
 ## State & Interactions
 
