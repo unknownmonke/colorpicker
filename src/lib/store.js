@@ -9,7 +9,6 @@ import PubSub from './pubsub.js';
  * - **Mutations** - Operation that changes a part of the state.
  * - **Actions** - Operations that triggers a mutation of the state.
  * 
- * 
  * Specifics :
  * 
  * - An action is always named, and triggers a mutation for ideally the same name.

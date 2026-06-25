@@ -4,7 +4,6 @@
  * Publishers categorize messages into classes that are received by subscribers.
  * Subscribers express interest in one or more classes and only receive messages that are of interest.
  * 
- * 
  * **Properties** : 
  * 
  * - `events` : the event message object.
@@ -13,7 +12,6 @@
  * Each class contains one or more callbacks lambda functions, which are executed when publishing events of this class.
  * 
  * Therefore, several subscribers can subscribe to the same event with a different callback.
- * 
  * 
  * **Specifics** :
  * 
