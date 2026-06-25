@@ -1,6 +1,6 @@
 {
     "name": "@unknownmonke/colorpicker",
-    "version": "2.0.0",
+    "version": "0.3.0",
     "description": "Simple HSV color picker in HTML.",
     "main": "index.js",
     "type": "module",
